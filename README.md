@@ -16,7 +16,8 @@ It has not been completed yet because it still need it to be reviewed cause i ad
 
 My project is complete i just need to spice things up to make it look much more better.
 
-![Uploading Screenshot (208).png…]()
+![Screenshot (208)](https://github.com/Saint8083/Pure-Dictionary-/assets/122878923/02ce0f4c-0db5-413a-abc9-27805899a13b)
+
 For a frontend engineering i chose to use HTML5, CSS3 and JavaScript without any additional frameworks. I opted not to use other frameworks because i wanted to dedicate our time to solidifying our understanding of JavaScript. And with the help of gtihub to store my source code, link to my github page:https://github.com/Saint8083/Pure-Dictionary-.
 
 my project landing page link: https://saint8083.github.io/Pure-Dictionary-/ and my linkedin url: https://www.linkedin.com/in/andre-victoria-727436267/
