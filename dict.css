@@ -12,7 +12,7 @@ body {
   text-align: center;
   margin-bottom: 20px;
 }
-
+/* text container */
 .container {
   display: flex;
   flex-direction: column;
@@ -38,7 +38,7 @@ input#inp-word {
   width: 100%;
   position: relative;
 }
-
+/* this is the result search button */
 button#search-btn {
   background-color: transparent;
   color: #000;
